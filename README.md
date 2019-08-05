@@ -10,11 +10,11 @@ Create pickles as described in https://github.com/maartensukel/example-textual-c
 ## 2) Install docker
 Make sure docker is installed, or install docker https://docs.docker.com/install/.
 
-##3) 
+##3) Run containers
 To build the containers run: 'docker-compose build'
 
-## 4)
+## 4) Build containers
 To run the application execute: 'docker-compose up'
 
-## 5)
+## 5) Open demo
 To see the demo open /web_pages/index.html or post {'text':'example text'} to http://localhost:8140/signals_mltool/predict
