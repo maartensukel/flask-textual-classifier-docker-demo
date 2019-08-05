@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# pickles
+flask_demo/model_2.pkl
+flask_demo/model_1.pkl
