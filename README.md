@@ -8,7 +8,7 @@ Create pickles as described in https://github.com/maartensukel/example-textual-c
 ## 2) Install docker
 Make sure docker is installed, or install docker https://docs.docker.com/install/.
 
-##3) Run containers
+## 3) Run containers
 To build the containers run: 'docker-compose build'
 
 ## 4) Build containers
